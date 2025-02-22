@@ -1,6 +1,13 @@
 {
+<<<<<<< HEAD
     "aws_access_key": "kjhghjkljhugyftghjk",
     "aws_secret_key": "A1kkzkGJm+V+mkjhgfcgghjkhugyftghijlk",
     "image_region": "ap-south-1",
     "source_image_id": "ami-00bb6a80f2571201f03502"
+=======
+    "aws_access_key": "AKIAZD5FH7KGR",
+    "aws_secret_key": "A1kkzkGJmvjkeBmqSN5fnSzLdGJl9ix0",
+    "image_region": "ap-south-1",
+    "source_image_id": "ami-00bb6a80f01f03502"
+>>>>>>> 570119c (Update Repo)
 }
