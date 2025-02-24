@@ -1,13 +1,13 @@
 {
 <<<<<<< HEAD
-    "aws_access_key": "kjhghjkljhugyftghjk",
-    "aws_secret_key": "A1kkzkGJm+V+mkjhgfcgghjkhugyftghijlk",
+    "aws_access_key": "ghjkljhugyftghjk",
+    "aws_secret_key": "zkGJm+V+mkjhgfcgghjkhugyftghijlk",
     "image_region": "ap-south-1",
-    "source_image_id": "ami-00bb6a80f2571201f03502"
+    "source_image_id": "ami-sa2bb6a80f2571201f03502"
 =======
-    "aws_access_key": "AKIAZD5FH7KGR",
-    "aws_secret_key": "A1kkzkGJmvjkeBmqSN5fnSzLdGJl9ix0",
+    "aws_access_key": "fadfegrw548745",
+    "aws_secret_key": "egwfcaxcsvfdbgg5451ca",
     "image_region": "ap-south-1",
-    "source_image_id": "ami-00bb6a80f01f03502"
+    "source_image_id": "ami-fwef568fwa54f1w"
 >>>>>>> 570119c (Update Repo)
 }
